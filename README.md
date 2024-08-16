@@ -18,9 +18,6 @@ A Result Management System using HTML, CSS, JavaScript , Node and using MVC Mode
 3. Run "npm install" and "npm install -g nodemon" .
 4. Now to run the project --> Run "nodemon app.js" on terminal.
   
-## Frontend
-1. Open URL "https://localhost:3000" on a browser.
-
 # Screen-Shots 
 
 ## Project Structure
